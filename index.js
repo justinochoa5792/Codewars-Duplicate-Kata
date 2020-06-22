@@ -9,4 +9,4 @@ function onlyDuplicates(str) {
       }
       str2 = strArr2.join("");
       return str2
-    }
+    }git 
